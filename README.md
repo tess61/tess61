@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Payment Aggregation System
-- 🌱 I’m currently learning ... AI
-- 💬 Ask me about ... fintech
-- 📫 How to reach me: ... tesfaforwork@gmail.com
 -->
-
+- 🔭 I’m currently working on a <strong>Payment Aggregation System<strong/>
+- 🌱 I’m currently learning <strong>AI<strong/>
+- 💬 Ask me about  <strong>fintech<strong/>
+- 📫 How to reach me: tesfaforwork@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tesfa_61) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tesfa-melkamu-53b7a4260/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tesfaforwork@gmail.com) 
