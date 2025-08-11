@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on a <strong>Payment Aggregation System<strong/>
-- 🌱 I’m currently learning <strong>AI<strong/>
-- 💬 Ask me about  <strong>fintech<strong/>
+- 🔭 I’m currently working on: <strong>a Payment Aggregation System<strong/>
+- 🌱 I’m currently learning: <strong>AI<strong/>
+- 💬 Ask me about:  <strong>fintech<strong/>
 - 📫 How to reach me: tesfaforwork@gmail.com
 
 ## 🌐 Socials:
